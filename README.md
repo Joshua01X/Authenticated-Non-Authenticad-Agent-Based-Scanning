@@ -12,7 +12,6 @@
 2. **Microsoft Azure:**
    - **Virtual Machines (VMs):** Configured with Windows and Linux for testing.
    - **Azure Active Directory:** To manage authenticated scanning scenarios.
-   - **Azure Security Center:** For complementary insights and baseline security.
 3. **Technologies:**
    - **Secure Shell (SSH):** For Linux-based authenticated scanning.
    - **Remote Desktop Protocol (RDP):** For Windows-based authenticated scanning.
