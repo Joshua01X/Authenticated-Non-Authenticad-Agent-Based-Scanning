@@ -10,7 +10,7 @@
    - **Nessus:** For vulnerability assessment and scanning.
    - **Tenable.io:** For managing and reporting vulnerabilities in the cloud.
 2. **Microsoft Azure:**
-   - **Virtual Machines (VMs):** Configured with Windows Server 2019 and Linux for testing.
+   - **Virtual Machines (VMs):** Configured with Windows and Linux for testing.
    - **Azure Active Directory:** To manage authenticated scanning scenarios.
    - **Azure Security Center:** For complementary insights and baseline security.
 3. **Technologies:**
