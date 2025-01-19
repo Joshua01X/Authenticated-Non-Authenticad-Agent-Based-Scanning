@@ -1,5 +1,7 @@
 # Authenticated, Non-Authenticated, and Agent-Based Scanning Project
 
+![Private Net Overview](https://github.com/user-attachments/assets/a92713d4-4c30-4b5e-b336-0be8075a24cf)
+
 ## Introduction/Objective
 <p align="justify">The primary objective of this project is to explore and evaluate the effectiveness of three distinct scanning methodologies: authenticated, non-authenticated, and agent-based scanning. The goal is to understand their application, strengths, and limitations in identifying vulnerabilities within an IT environment. By leveraging Tenable's advanced scanning capabilities and hosting a controlled lab environment in Microsoft Azure, this project aims to demonstrate real-world use cases and provide actionable insights for cybersecurity professionals.</p>
 
