@@ -63,7 +63,7 @@ Agent-based scanning uses lightweight agents installed on endpoints to continuou
 
 ### Process:
 1. Installed Tenable agents on Azure VMs.
-2. Configured the agent-based scanning policy in Tenable.io.
+2. Configured the agent-based scanning policy.
 3. Collected vulnerability data directly from the endpoint.
 
 ### Key Observations:
