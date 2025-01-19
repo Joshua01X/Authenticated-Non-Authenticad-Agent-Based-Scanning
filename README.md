@@ -10,7 +10,6 @@
 ## Components, Tools, and Technologies Employed
 1. **Tenable:**
    - **Nessus:** For vulnerability assessment and scanning.
-   - **Tenable.io:** For managing and reporting vulnerabilities in the cloud.
 2. **Microsoft Azure:**
    - **Virtual Machines (VMs):** Configured with Windows and Linux for testing.
 3. **Technologies:**
